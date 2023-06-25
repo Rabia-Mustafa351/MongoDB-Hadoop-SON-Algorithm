@@ -1,0 +1,84 @@
+Hermann Ney, 719
+Gerhard P. Fettweis, 769
+Alois C. Knoll, 533
+Rolf Drechsler, 593
+Helmut Krcmar, 652
+Ralf Steinmetz, 560
+Christoph Meinel, 662
+Dacheng Tao, 805
+Lajos Hanzo, 1467
+Gerhard Weikum, 550
+Zhu Han 0001, 830
+Albert Y. Zomaya, 617
+Viktor K. Prasanna, 625
+Witold Pedrycz, 690
+Wil M. P. van der Aalst, 586
+Jiawei Han 0001, 687
+Mario Piattini, 556
+Jie Wu 0001, 584
+Sajal K. Das 0001, 547
+Ajith Abraham, 531
+Pramod K. Varshney, 503
+Ronald R. Yager, 512
+Mihaela van der Schaar, 613
+Guanrong Chen, 514
+Massoud Pedram, 596
+Schahram Dustdar, 513
+Dinesh Manocha, 599
+Hussein T. Mouftah, 571
+Luca Benini, 678
+Victor C. M. Leung, 1033
+Rahim Tafazolli, 504
+Xuelong Li 0001, 636
+Xin Yao 0001, 633
+Philip S. Yu, 1164
+Rama Chellappa, 646
+Anil K. Jain 0001, 521
+Wen Gao 0001, 995
+Toshio Fukuda, 510
+Andrew Zisserman, 529
+Mengjie Zhang 0001, 507
+Ali H. Sayed, 503
+Aggelos K. Katsaggelos, 504
+Maarten de Rijke, 583
+Kaushik Roy 0001, 647
+Rajkumar Buyya, 634
+MÖrouane Debbah, 527
+Luc Van Gool, 852
+Georgios B. Giannakis, 780
+BjÖrn E. Ottersten, 755
+Satoshi Nakamura 0001, 527
+Giuseppe Caire, 523
+Robert Schober, 681
+Mohsen Guizani, 822
+Qi Tian 0001, 550
+Nassir Navab, 649
+Rui Zhang 0006, 535
+Karl Henrik Johansson, 535
+Francisco Herrera, 622
+Ioannis Pitas, 553
+Robert W. Heath Jr., 654
+Yoshua Bengio, 524
+Haizhou Li 0001, 624
+Jiebo Luo, 505
+Michele Zorzi, 741
+Guang-Zhong Yang, 532
+Mohamed-Slim Alouini, 1400
+Moshe Y. Vardi, 613
+Leonard Barolli, 511
+Licheng Jiao, 562
+Makoto Takizawa 0001, 861
+Kang G. Shin, 581
+Hans-Peter Seidel, 581
+Alberto L. Sangiovanni-Vincentelli, 504
+Daniela Rus, 548
+Xuemin Shen, 624
+Khaled Ben Letaief, 528
+Choong Seon Hong, 517
+Thomas S. Huang, 903
+C.-C. Jay Kuo, 822
+Edwin R. Hancock, 707
+H. Vincent Poor, 1887
+Shrikanth S. Narayanan, 593
+Dinggang Shen, 700
+K. J. Ray Liu, 631
